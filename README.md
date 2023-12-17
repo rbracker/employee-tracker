@@ -30,3 +30,5 @@ Install the dependancies with npm install (or npm i)
 Set up your config.js file
 Run Workpulse-Monitor using node index.js
 
+## Preview 
+![Alt text](<image/Screenshot 2023-12-16 193049.png>)
