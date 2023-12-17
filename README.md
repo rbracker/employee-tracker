@@ -24,37 +24,9 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-## Deliverables: 10%
-Your GitHub repository containing your application code.
+## Instructions
+git clone resporitory onto a computer of your choice
+Install the dependancies with npm install (or npm i)
+Set up your config.js file
+Run Workpulse-Monitor using node index.js
 
-## Walkthrough Video: 27%
-A walkthrough video that demonstrates the functionality of the employee tracker must be submitted, and a link to the video should be included in your README file.
-
-The walkthrough video must show all of the technical acceptance criteria being met.
-
-The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-The walkthrough video must demonstrate a functional menu with the options outlined in the acceptance criteria.
-
-## Technical Acceptance Criteria: 40%
-Satisfies all of the preceding acceptance criteria plus the following:
-
-Uses the Inquirer packageLinks to an external site..
-
-Uses the MySQL2 packageLinks to an external site. to connect to a MySQL database.
-
-Follows the table schema outlined in the homework instructions.
-
-## Repository Quality: 13%
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains a high-quality README with description and a link to a walkthrough video.
-
-## Application Quality 10%
-The application user experience is intuitive and easy to navigate.
